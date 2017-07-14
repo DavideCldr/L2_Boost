@@ -1,5 +1,5 @@
 # L2_Boost
 
-#Algorithm to boost over a square loss.
+#Perform Gradient Boosting with Squared-Error Loss (L2-boosting).
 
 #Runs in R.
